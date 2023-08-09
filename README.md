@@ -1,6 +1,6 @@
 # Programs
 ![](https://www.nscc.ca/img/aboutnscc/mh-school-tech-enviro1.jpg)
-* This repo will contain all the relevant information of events, programs, campus expert programs and Ambassador programs etc to take participation. 
+* This repo contains all the relevant information of events, programs, campus expert programs and Ambassador programs etc to take participation. 
 
 ## GitHub Campus Expert Program: August 2023 Batch
    * Last to apply: 1 September, 2023
