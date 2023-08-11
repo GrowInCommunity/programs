@@ -12,3 +12,11 @@
 4. Have at least one year before graduating
 5. Have had a GitHub account for at least six months
 * [Link to apply](https://education.github.com/campus_experts)
+
+## LFX Mentorship Program: September Batch
+* Starting from September 2023
+
+### To participate in the GitHub Campus Experts program, you must:
+* You must be above 18
+* You should not already engaged in any other LFX program.
+* [Link to apply](https://lfx.linuxfoundation.org/tools/mentorship/)
