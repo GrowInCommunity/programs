@@ -20,3 +20,12 @@
 * You must be above 18
 * You should not already engaged in any other LFX program.
 * [Link to apply](https://lfx.linuxfoundation.org/tools/mentorship/)
+
+## Outreachy December 2023 internship applications
+![](https://cdn-media-1.freecodecamp.org/images/1*JaAR0XZ0p642kRjDD-pCkg.png)
+* Outreachy is seeking interns for the December 2023 to May 2024 internship cohort!
+
+📅 Important dates:
+* Aug. 8, 2023 at 4pm UTC - initial application opens
+* Aug. 22, 2023 at 4pm UTC - initial application deadline
+* [Details and link to apply](https://www.outreachy.org/blog/2023-08-08/december-2023-initial-applications-open/)
