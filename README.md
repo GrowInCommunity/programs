@@ -3,6 +3,7 @@
 * This repo contains all the relevant information of events, programs, campus expert programs and Ambassador programs etc to take participation. 
 
 ## GitHub Campus Expert Program: August 2023 Batch
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200908144657/How-to-Become-GitHub-Campus-Expert.jpg)
    * Last to apply: 1 September, 2023
      
 ### To participate in the GitHub Campus Experts program, you must:
@@ -14,6 +15,7 @@
 * [Link to apply](https://education.github.com/campus_experts)
 
 ## LFX Mentorship Program: September Batch
+![](https://miro.medium.com/v2/resize:fit:802/1*O-3C_XYYhk6aWp3E48uvTg.png)
 * Starting from September 2023
 
 ### To participate in the GitHub Campus Experts program, you must:
