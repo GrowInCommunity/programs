@@ -2,6 +2,20 @@
 ![](https://www.nscc.ca/img/aboutnscc/mh-school-tech-enviro1.jpg)
 * This repo contains all the relevant information of events, programs, campus expert programs and Ambassador programs etc to take participation. 
 
+## MLH Fellowship
+![](https://news.mlh.io/wp-content/uploads/2020/08/fellowship.jpg)
+* The MLH Fellowship is a 12-week internship alternative for aspiring software engineers. Instead of interning at a single company, on the Open Source Track, you'll contribute to the type of Open Source projects that every company depends on.
+
+### Upcoming Terms and Deadlines
+* Fall 2023: Starts 18 September 2023
+  * Deadline for Applicants from Asia: 31 July 2023
+  * Deadline for Applicants from other regions: 31 August 2023
+
+* Spring 2024: Starts 29 January 2024
+  * Deadline for Applicants from Asia: 30 November 2023
+  * Deadline for Applicants from other regions: 31 December 2023
+* [Visit here for more](https://fellowship.mlh.io/programs/open-source)
+  
 ## GitHub Campus Expert Program: August 2023 Batch
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200908144657/How-to-Become-GitHub-Campus-Expert.jpg)
    * Last to apply: 1 September, 2023
