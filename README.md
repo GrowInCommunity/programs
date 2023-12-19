@@ -1,6 +1,9 @@
 # Programs
 ![](https://www.nscc.ca/img/aboutnscc/mh-school-tech-enviro1.jpg)
 * This repo contains all the relevant information of events, programs, campus expert programs and Ambassador programs etc to take participation. 
+## Google Summer of Code (GSoC) 2024 Coming Soon..
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjElEttasnAcLCu_M46a2XSKi9jSq5d-mJaNNsBifzUyrATXgOn6KeFfzWPFK8RfuUXpj6OpRR7okkaV8U9uS4-Xf_9SuMzPMCedGrdJREzYVmk94vq1GBWDfPel-w9iZzNszvlZU_gOnlV0bNjdLRrf0y6U_9qQqLrrGjKjlaZEVjSkcrchiFP1PbsBp0/s1600/GSoC%20Banner.png)
+* [Visit here for more](https://summerofcode.withgoogle.com/)
 
 ## MLH Fellowship
 ![](https://news.mlh.io/wp-content/uploads/2020/08/fellowship.jpg)
