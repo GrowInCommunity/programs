@@ -1,6 +1,29 @@
 # Programs
 ![](https://www.nscc.ca/img/aboutnscc/mh-school-tech-enviro1.jpg)
 * This repo contains all the relevant information of events, programs, campus expert programs and Ambassador programs etc to take participation. 
+## LFX Mentorship 2026
+<img width="556" height="91" alt="image" src="https://github.com/user-attachments/assets/4b8f926c-342e-4d1f-9b89-68ec30ef75f3" />
+
+* Spring Term (March - May)
+  * Applications Open: Jan 26 – Feb 10, 2026
+  * Application Review/Decision: Feb 11 – Feb 24, 2026
+  * Term Dates: March 3 – May 30, 2026
+  * Final Evaluations: Due May 26, 2026
+  
+* Summer Term (June - August)
+  * Mentorships Available: April 16, 2026
+  * Applications Open: May 14 – May 27, 2026
+  * Application Review/Decision: May 28 – June 3, 2026
+  * Term Dates: June 8 – Aug 25/29, 2026
+  
+* Fall Term (September - November)
+  * Mentorships Available: July 2, 2026
+  * Applications Open: July 30 – August 12, 2026
+  * Application Review/Decision: August 13 – August 26, 2026
+  * Term Dates: September 8 – Nov 28, 2026
+  
+* Visit here for more details: https://lfx.linuxfoundation.org/tools/mentorship/
+
 ## Google Summer of Code (GSoC) 2024 Coming Soon..
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjElEttasnAcLCu_M46a2XSKi9jSq5d-mJaNNsBifzUyrATXgOn6KeFfzWPFK8RfuUXpj6OpRR7okkaV8U9uS4-Xf_9SuMzPMCedGrdJREzYVmk94vq1GBWDfPel-w9iZzNszvlZU_gOnlV0bNjdLRrf0y6U_9qQqLrrGjKjlaZEVjSkcrchiFP1PbsBp0/s1600/GSoC%20Banner.png)
 * [Visit here for more](https://summerofcode.withgoogle.com/)
